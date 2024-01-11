@@ -96,3 +96,38 @@ Example:
     <td><img src="roles_demo2.png" alt="Roles Demo 2"></td>
   </tr>
 </table>
+
+
+## Services Management
+
+### Create Service
+
+- Add new services to the system.
+
+### Edit Service
+
+- Modify existing service details.
+
+### Delete Service
+
+- Remove services from the system.
+
+### View Service
+
+- Access detailed information about a service, including associated medical acts and prices.
+
+### Manage Medical Acts
+
+- Add, edit, or delete medical acts associated with a service.
+- Specify prices for each medical act.
+
+Example:
+
+> Services Management enables users to create, edit, and delete services within the system. When viewing a service, administrators can access detailed information, including associated medical acts and their respective prices. Additionally, the module allows for the management of medical acts, allowing customization of services offered.
+
+<table>
+  <tr>
+    <td><img src="services_demo1.png" alt="Services Demo 1"></td>
+    <td><img src="services_demo2.png" alt="Services Demo 2"></td>
+  </tr>
+</table>
