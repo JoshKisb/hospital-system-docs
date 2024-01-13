@@ -131,3 +131,72 @@ Example:
     <td><img src="services_demo2.png" alt="Services Demo 2"></td>
   </tr>
 </table>
+
+## Patients Management
+
+### Create Patient
+
+- Add new patients to the system.
+
+### Edit Patient
+
+- Modify existing patient details.
+
+### Delete Patient
+
+- Remove patients from the system.
+
+Example:
+
+> Patients Management allows for the creation, editing, and deletion of patient records within the system. This module ensures a streamlined process for maintaining accurate and up-to-date patient information.
+
+## Admissions Management
+
+### Create Admission
+
+- Select a patient and initiate the admission process.
+
+### Edit Admission
+
+- Modify details related to an existing admission.
+
+### View Admission
+
+- Access detailed information about the admission.
+- Manage various components related to the admission.
+
+#### Destination Services
+
+- Create, edit, and delete destination services.
+- Select services and associated medical acts.
+
+#### Items Consumed
+
+- Create, edit, and delete items consumed.
+- Select products from the inventory with quantities.
+
+#### Prescriptions
+
+- Create, edit, and delete prescriptions.
+- Select products from the inventory with quantities.
+
+#### Bills
+
+- View and manage bills.
+- List medical acts from destination services with prices.
+- Select one or more for payment.
+
+#### Invoices
+
+- Lists payments made from bills.
+- View and print invoices.
+
+#### Forms
+
+- Create, edit, and delete forms.
+- Select a form and enter required patient admission data.
+
+Example:
+
+> Admissions Management allows users to seamlessly create, edit, and view patient admissions. Within the admission view, administrators can manage various components such as destination services, items consumed, prescriptions, bills, invoices, and forms. This comprehensive module ensures efficient handling of patient-related tasks throughout the admission process.
+
